@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/planckbridge/blog/</loc>
+    <loc>https://planckbridge.github.io/blog/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/blog/test4/</loc>
+    <loc>https://planckbridge.github.io/blog/test4/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/</loc>
+    <loc>https://planckbridge.github.io/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/blog/interest-rates-copy/</loc>
+    <loc>https://planckbridge.github.io/blog/interest-rates-copy/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/blog/test3/</loc>
+    <loc>https://planckbridge.github.io/blog/test3/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/blog/stock-indexes/</loc>
+    <loc>https://planckbridge.github.io/blog/stock-indexes/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/tools/asset-analysis-tool/</loc>
+    <loc>https://planckbridge.github.io/tools/asset-analysis-tool/</loc>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/tools/variance-monte-carlo/</loc>
+    <loc>https://planckbridge.github.io/tools/variance-monte-carlo/</loc>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/categories/</loc>
+    <loc>https://planckbridge.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/tags/</loc>
+    <loc>https://planckbridge.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/planckbridge/tools/</loc>
+    <loc>https://planckbridge.github.io/tools/</loc>
   </url>
 </urlset>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Planck Bridge on </title>
+    <link>https://planckbridge.github.io/planckbridge/</link>
+    <description>Recent content in Welcome to Planck Bridge on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://planckbridge.github.io/planckbridge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test4</title>
+      <link>https://planckbridge.github.io/planckbridge/blog/test4/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/blog/test4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;test4ron&lt;/strong&gt;&lt;br&gt;&#xA;TWWwwwwwwaaaaa test4&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interest Rates</title>
+      <link>https://planckbridge.github.io/planckbridge/blog/interest-rates-copy/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/blog/interest-rates-copy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Saron&lt;/strong&gt;&lt;br&gt;&#xA;This is a TEST. SARON stands for Swiss Average Rate Overnight. It represents the overnight interest rate of the secured funding market for Swiss francs, specifically the repo (repurchase agreement) market where banks lend to each other using high-quality collateral, such as government bonds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test3</title>
+      <link>https://planckbridge.github.io/planckbridge/blog/test3/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/blog/test3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Test3&lt;/strong&gt;&lt;br&gt;&#xA;This is TEST3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Stock Indexes Teach Us</title>
+      <link>https://planckbridge.github.io/planckbridge/blog/stock-indexes/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/blog/stock-indexes/</guid>
+      <description>&lt;p&gt;This text explores why it has been challenging to beat indexes like the S&amp;amp;P 500 over long time horizons and how we can use this information to build a momentum trading strategy. It also discusses the similarities between trading and poker. Overall, the goal of this text is to introduce momentum trading, which will be explored further in another post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://planckbridge.github.io/planckbridge/tools/asset-analysis-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/tools/asset-analysis-tool/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Asset Analysis App&lt;/strong&gt;: &lt;a href=&#34;https://asset-returns-analysis.streamlit.app/&#34;&gt;Visit here&lt;/a&gt;&lt;br&gt;&#xA;This tool allows users to analyze and compare the returns of financial assets. All calculations are based on daily adjusted closing prices, fetched directly from Yahoo Finance using the yfinance API.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://planckbridge.github.io/planckbridge/tools/variance-monte-carlo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://planckbridge.github.io/planckbridge/tools/variance-monte-carlo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Variance Monte Carlo Simulation&lt;/strong&gt;: &lt;a href=&#34;https://apple.com/&#34;&gt;Visit here&lt;/a&gt;&lt;br&gt;&#xA;This tool is a test.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

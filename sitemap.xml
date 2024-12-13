@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://planckbridge.github.io/planckbridge/blog/</loc>
+    <loc>http://localhost:1313/planckbridge/blog/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/blog/test4/</loc>
+    <loc>http://localhost:1313/planckbridge/blog/test4/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/</loc>
+    <loc>http://localhost:1313/planckbridge/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/blog/interest-rates-copy/</loc>
+    <loc>http://localhost:1313/planckbridge/blog/interest-rates-copy/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/blog/test3/</loc>
+    <loc>http://localhost:1313/planckbridge/blog/test3/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/blog/stock-indexes/</loc>
+    <loc>http://localhost:1313/planckbridge/blog/stock-indexes/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/tools/asset-analysis-tool/</loc>
+    <loc>http://localhost:1313/planckbridge/tools/asset-analysis-tool/</loc>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/tools/variance-monte-carlo/</loc>
+    <loc>http://localhost:1313/planckbridge/tools/variance-monte-carlo/</loc>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/categories/</loc>
+    <loc>http://localhost:1313/planckbridge/categories/</loc>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/tags/</loc>
+    <loc>http://localhost:1313/planckbridge/tags/</loc>
   </url><url>
-    <loc>https://planckbridge.github.io/planckbridge/tools/</loc>
+    <loc>http://localhost:1313/planckbridge/tools/</loc>
   </url>
 </urlset>
